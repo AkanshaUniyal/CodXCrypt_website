@@ -12023,6 +12023,12 @@ h5,
   color: #4986fc !important;
 }
 
+#ftco-nav li:hover{
+  background-color: #ffd207;
+  border-bottom-left-radius: 5px ;
+  border-bottom-right-radius: 5px;
+}
+
 .ftco-navbar-light {
   background: transparent !important;
   position: absolute;
